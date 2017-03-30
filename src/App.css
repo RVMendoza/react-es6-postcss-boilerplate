@@ -1,3 +1,5 @@
+@import "css-modularscale";
+
 .App {
   text-align: center;
 }
@@ -5,12 +7,18 @@
 /*Testing to see if postcss-custom-variables work*/
 :root {
   --red-but-really-green: green;
+  --ms-base: 1em;
+	--ms-ratio: var(--major-third);
 }
 
 /*Testing to see if postcss-nested works*/
 body {
   .App {
     background: var(--red-but-really-green);
+  }
+
+  .App-intro {
+    font-size: var(--ms4);
   }
 }
 .App-logo {

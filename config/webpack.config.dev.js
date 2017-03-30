@@ -4,6 +4,7 @@
 var postcssNested = require('postcss-nested');
 var autoprefixer = require('autoprefixer');
 var postcssCustomProperties = require('postcss-custom-properties');
+var postcssImport = require('postcss-import');
 
 var webpack = require('webpack');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
@@ -178,6 +179,7 @@ module.exports = {
           'not ie < 9', // React doesn't support IE8 anyway
         ]
       }),
+      postcssImport,
       postcssNested,
       postcssCustomProperties,
     ];
