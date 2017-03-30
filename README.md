@@ -16,4 +16,4 @@ I will explain better later, but basically fork this, `npm install` and then `np
   
   # Other Plugins
 - [css-modularscale](https://github.com/VinSpee/css-modularscale)
-  - For consistent spacing 
+  - For consistent spacing and size.
