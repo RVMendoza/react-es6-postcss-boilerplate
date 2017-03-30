@@ -11,5 +11,5 @@ PostCSS Plugins to get you started:
 - [postcss-nested](https://github.com/postcss/postcss-nested)
 - [postcss-import](https://github.com/postcss/postcss-import)
   - This plugin can consume local files, node modules or web_modules.
-- [css-modularscale] (https://github.com/VinSpee/css-modularscale)
+- [css-modularscale](https://github.com/VinSpee/css-modularscale)
   - For consistent spacing 
