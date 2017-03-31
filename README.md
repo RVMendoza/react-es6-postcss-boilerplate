@@ -3,7 +3,7 @@
 
 ![please](http://media0.giphy.com/media/l2R032V7qRAF8J6qA/giphy.gif)
 
-I made this becuase setting up projects stress me tf out.
+I made this becuase as a front-end dev, setting up projects stress me tf out.
 
 I couldn't find any simple tutorials and when I did find some, they made too many logic jumps that assumed my knowledge and I got lost by step 7.
 
