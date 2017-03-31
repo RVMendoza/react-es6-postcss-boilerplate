@@ -5,7 +5,7 @@
 
 I made this becuase as a front-end dev, setting up projects stress me tf out.
 
-I couldn't find any simple tutorials and when I did find some, they made too many logic jumps that assumed my knowledge and I got lost by step 7.
+I couldn't find any simple tutorials and when I did find some, they made too many logic jumps that assumed knowledge I didn't have. I didn't even know what I didn't know so I got lost by step 7.
 
 This is geared towards front-end folks that just want to start doing hoodrat things with their hoodrat friends online.
 
