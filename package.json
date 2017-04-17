@@ -46,7 +46,7 @@
     "reset-css": "^2.2.0",
     "style-loader": "0.13.1",
     "suitcss": "^2.0.0",
-    "suitcss-utils-space": "^0.4.1",
+    "suitcss-utils-space": "^1.0.0",
     "url-loader": "0.5.7",
     "webpack": "1.14.0",
     "webpack-dev-server": "1.16.2",

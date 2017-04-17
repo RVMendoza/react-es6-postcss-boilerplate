@@ -6,7 +6,7 @@
 :root {
   --variable-test: teal;
   --ms-base: 16px;
-	--ms-ratio: var(--major-third);
+	--ms-ratio: var(--major-second);
   
   /* Variables for suitcss-utils-space */
   --space-n: 0;
