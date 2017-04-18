@@ -24,6 +24,9 @@ I will explain better later, but basically fork this, `npm install` and then `np
   - This plugin can consume local files, node modules or web_modules.
   
   # Other Plugins
+- [react-router v3](https://github.com/ReactTraining/react-router)
+  - So you can use urls and such. [react v3 tutorial](https://github.com/reactjs/react-router-tutorial/tree/master/lessons/02-rendering-a-route)
+  - Version 4 of react-react router came out in April 2017, but I don't quite understand it, so I'm using v3 because the tutorial is easier to follow.
 - [css-modularscale](https://github.com/VinSpee/css-modularscale)
   - For consistent spacing and size.
 - [reset-css](https://www.npmjs.com/package/reset-css)
@@ -32,4 +35,5 @@ I will explain better later, but basically fork this, `npm install` and then `np
   - Utility components
 - [suitcss-utils-space](https://github.com/VinSpee/suitcss-utils-space)
   - Space utility components
+
   
